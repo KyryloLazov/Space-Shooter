@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d5be3c7f0af4c4b4185fec572df15bef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laser: {instanceID: 0}
+  - _TripleShot: {instanceID: 0}
+  - _Shield: {instanceID: 0}
+  - _damage1: {instanceID: 0}
+  - _damage2: {instanceID: 0}
+  - _laserSound: {instanceID: 0}
+  - _playerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
